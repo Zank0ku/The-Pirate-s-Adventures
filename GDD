@@ -1,0 +1,22 @@
+Game Design Document
+
+Executive summary
+The game is Super Mario kind of game. We got inspired by this game and brought our modifications and preferences. The player will play as a Pirate who is trying to find and get a big treasure, which is guarded by Goblins who the main character will have to fight off. It takes place on some beach, the place where the Goblins came from. The game mechanics are basic, you control your character, he can go forward, backwards, jump and attack with his sword. The Pirate can get damage from the Goblins when touching them, you have a scale of life which decreases every time you touch the Goblins. There are various levels, in which there are things you must collect to get to the next level. The main goal is to get to the final level and get the treasure that is guarded by the Goblins.
+
+User Interface Mock-Up
+Will be provided with the advancement of the project
+
+Controls
+The character movements are controlled by the arrow keys and space bar.
+“Up” = Jump ; “Down” = Slow down ; “Right” = Move right ; “Left” = Move left
+“Space” = Attack. 
+
+Developer Roles
+Aman – Graphics, audio, effects.
+Nichita – Coding, gameplay.
+Omar - Coding, maps, environment.
+
+Schedule of Release
+▪ 11/30: Pre-Alpha (all characters and levels integrated) 
+▪ 12/07: Alpha (will be shared for testing) 
+▪ 12/13: Gold Master (final version)
